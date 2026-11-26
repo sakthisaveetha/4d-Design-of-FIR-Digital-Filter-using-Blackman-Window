@@ -33,7 +33,8 @@ Thus design of HIGH pass FIR digital filter using-Blackman-Window waveforms were
 # AIM 3: To perform DESIGN OF BAND PASS FIR DIGITAL FILTERS using SCILAB.
 
 # APPARATUS REQUIRED: 
-PC installed with SCILAB. 
+PC installed with SCILAB.  
+
 
 # PROGRAM: 
 
